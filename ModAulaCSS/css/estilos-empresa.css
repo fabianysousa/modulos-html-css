@@ -1,0 +1,26 @@
+/* empresa.html */
+
+.nome{
+    
+    color:#f00;
+
+    /*
+    font-size: 24px;
+    font-family: "Arial", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    */
+
+    font: italic bold 24px "Arial", sans-serif;
+
+    text-decoration: underline;
+    text-align: center;
+
+    
+}
+
+#titulo{
+    color: #f0c8;
+    font-family: 'Times New Roman', sans-serif;
+}
+
