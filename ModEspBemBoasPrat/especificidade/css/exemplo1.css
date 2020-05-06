@@ -1,0 +1,26 @@
+body {
+    font-size: 32px;
+}
+
+/*
+h1 {
+    color: red;
+}
+*/
+
+#logo {
+    color: green;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+h1 {
+    color: blue !important;
+}
+
+/*
+especifidade: id > class > tag
+"!importat" força ter mais especificidade
+*/

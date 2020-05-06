@@ -1,0 +1,19 @@
+body {
+    font-size: 32px;
+}
+
+header#cabeçalho .logo {
+    color: purple;
+}
+
+#cabeçalho .logo {
+    color: red;
+}
+
+header .logo {
+    color: green;
+}
+
+.logo {
+    color: blue;
+}

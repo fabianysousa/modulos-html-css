@@ -1,0 +1,24 @@
+.texto {
+    font-size: 2em /* 2x tamanho do pai(16px = body) = 32px */;
+}
+
+.texto h1 {
+    font-size: 3em;
+}
+
+.texto p {
+    padding: 0.5em;
+    margin-right: 3em;
+    border: 0.5em solid black;
+    font-size: 2em; /* 64px */
+}
+
+.texto p span {
+    font-size: 0.5em; /* 32px */
+}
+
+/* em --- altera o tamanho referente ao tamanho da tag 
+    rem --- altera o tamnho referente ao tamanho do documento */
+
+/* não é recomendado colocar tamanho fixo pois
+    ignora as preferências do usuário*/

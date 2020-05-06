@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px; 
+    /* (10/16) * 100 = 62.5 (10px - em relação ao tamanho do navegador)*/
+}
+
+.caixa {
+    width: 50%;
+    padding: 10%;
+    margin-top: 10%;
+    font-size: 200%; /* 20px */
+
+    background-color: #ccc;
+    border: 5px solid black;
+    /* border não aceita medidas percentuais */
+}
+
+h1 {
+    font-size: 250%; /* 100px */
+}
+
+p {
+    font-size: 150%; /* 60px     */
+}
