@@ -4,7 +4,7 @@
 
 ## 📑 Sobre
 
-Modulos HTML e CSS trata-se de um repositório com a reprodução  dos exemplos utilizados dentro do curso **Web Design Responsivo com HTML5, CSS3 e BEM** da plataforma **AlgaWorks** a fim de colocar em prática todo conteúdo que estava sendo ensinado durante o curso.
+Modulos HTML e CSS trata-se de um repositório com a reprodução  dos exemplos utilizados dentro do curso **Web Design Responsivo com HTML5, CSS3 e BEM** da plataforma **AlgaWorks** a fim de colocar em prática todo conteúdo ensinado ao decorrer do curso.
 
 ---
 
