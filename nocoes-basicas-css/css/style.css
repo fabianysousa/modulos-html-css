@@ -1,0 +1,28 @@
+body {
+  padding: 10px;
+  background-color: plum;
+}
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.dados-pessoais {
+  height: 15em;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.dados-pessoais ul {
+  margin-left: 3em;
+}
+
+.dados-pessoais .imagem-perfil {
+  width: 150px;
+  height: 150px;
+}
+tr td {
+  border: 2px solid;
+}
